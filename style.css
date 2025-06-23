@@ -2,13 +2,14 @@ body{
     background-color: rgb(185, 134, 66);
     color: beige;
     font-family: "Jost", sans-serif;
-    margin: 0px;
+    margin: 20px;
     
 }
 header{
     background-color: rgb(143, 88, 36);
     color: antiquewhite;
-    border-bottom;: solid 10px blueviolet;
-    
+    border-bottom: groove 10px blueviolet;
+    margin: 20px;
+
 
 }
