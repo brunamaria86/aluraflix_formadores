@@ -5,6 +5,10 @@ body{
     margin: 0px;
     
 }
-header{background-color: rgb(143, 88, 36);
+header{
+    background-color: rgb(143, 88, 36);
     color: antiquewhite;
+    border-bottom;: solid 10px blueviolet;
+    
+
 }
