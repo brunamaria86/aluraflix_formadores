@@ -8,8 +8,15 @@ body{
 header{
     background-color: rgb(143, 88, 36);
     color: antiquewhite;
-    border-bottom: groove 10px blueviolet;
-    margin: 20px;
-
-
+    border-bottom: solid 10px rgb(243, 181, 67);
+    padding: 20px;
+    font-size: 32px;
+}
+h1{
+    color: bisque;
+    font-size: 28;
+}
+p{
+    color:blanchedalmond;
+    font-size: 20;
 }
