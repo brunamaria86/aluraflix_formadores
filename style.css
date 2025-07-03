@@ -25,4 +25,5 @@ section{
     background-color: rgb(70, 50, 23);
     padding-top: 80px;
     padding-bottom: 80px;
+    display: flex;
 }
